@@ -1,4 +1,3 @@
-"# SalesTransactionV" 
 # Preprosessing
 1. menghapus missing value
 2. menghapus duplicate data
